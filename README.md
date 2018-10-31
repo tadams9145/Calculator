@@ -30,3 +30,4 @@ Enhance the calculator so users can input arithmetic expressions using their key
 - Press the `Escape` key to clear the screen.
 
 **TIP:** You'll have to change the `screen` to an `<input>` tag.
+# Calculator
